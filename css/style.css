@@ -1,0 +1,55 @@
+
+.main__Quote
+{
+    background-image: url(../photos/wallpaperflare.com_wallpaper\ \(13\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1
+{
+    font-family:'Lugrasimo',sans-serif;
+    color:rgb(221, 31, 31)
+ 
+}
+p
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.btn__style
+{
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(105,253,45,1) 100%);
+    font-family:'Lugrasimo',sans-serif;
+    color:rgb(221, 31, 31);
+    font-size: 40px;
+}
+
+.quote__content
+{
+    background: rgba( 0, 204, 109, 0.05 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 14.5px );
+    border-radius: 10px;
+    transform: skew(15deg);
+    box-shadow: 7px 7px 5px 0px rgb(0, 204, 109) ;
+
+}
+
+#quote,#author__quote
+{
+    
+    color:rgb(221, 31, 31);
+    font-weight: 700;
+    margin:15px;
+    font-family: 'Dancing Script',sans-serif;
+    font-size: 20px;
+}
+#quote 
+{
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+    letter-spacing: 3px;
+    
+}
